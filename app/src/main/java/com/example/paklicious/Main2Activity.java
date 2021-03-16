@@ -5,14 +5,12 @@ import androidx.viewpager.widget.ViewPager;
 
 import android.os.Bundle;
 import android.util.Log;
-import android.view.View;
-import android.widget.ImageView;
-import android.widget.ViewFlipper;
+
 
 public class Main2Activity extends AppCompatActivity {
 
     ViewPager pager;
-    int[] images = {R.drawable.beefboti, R.drawable.beefnihari, R.drawable.chikenwhitekarachi,R.drawable.chikenqorma};
+    int[] images = {R.drawable.chikennihari, R.drawable.acharichiken, R.drawable.malaitikkabiryani,R.drawable.chikenqorma,R.drawable.karachihaleem,R.drawable.daalchanafry,R.drawable.beefnihari,R.drawable.chikenwhitekarachi};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

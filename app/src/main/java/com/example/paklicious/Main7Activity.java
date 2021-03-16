@@ -7,7 +7,7 @@ import android.os.Bundle;
 
 public class Main7Activity extends AppCompatActivity {
     ViewPager pager;
-    int[] images = {R.drawable.beefboti, R.drawable.beefnihari, R.drawable.chikenwhitekarachi,R.drawable.chikenqorma};
+    int[] images = {R.drawable.shehadchikensalad, R.drawable.piyazsalad, R.drawable.muttontamatarsalad,R.drawable.fruitsalad};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
